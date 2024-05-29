@@ -1,2 +1,3 @@
 .env
 API/json/
+API/db_backups/
