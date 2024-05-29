@@ -15,7 +15,7 @@ firebase_admin.initialize_app(cred, {
 ref = db.reference('/gates')
 data = ref.get()
 
-output_dir='./json/'
+output_dir='./API/json/'
 os.makedirs(output_dir, exist_ok=True)
 output_file = os.path.join(output_dir, 'dbsnapshot.json')
 
