@@ -1,7 +1,8 @@
 import os
-from backup import backup_database
-from database import initialize_database, insert_data
-from json_parser import load_json, process_data, setup_ratedata
+from functions.backup import backup_database
+from functions.database import initialize_database, insert_data
+from functions.json_parser import load_json, process_data, setup_ratedata
+from functions.matcher import match_gates_and_rates
 
 def main():
     dbsnapshot_file = './json/dbsnapshot.json'
@@ -16,12 +17,13 @@ def main():
         conn, cursor = initialize_database(output_db)
         db_data = load_json(dbsnapshot_file)
         gate_list = process_data(db_data)
-        insert_data(cursor, gate_list)
 
         rates_data = load_json(rates_file)
         rate_data_list = setup_ratedata(rates_data)
-        for rate_data in rate_data_list:
-            print(rate_data)
+
+        matched_data = match_gates_and_rates(gate_list, rate_data_list)
+
+        insert_data(cursor, gate_list, matched_data)
 
         conn.commit()
     except Exception as e:
