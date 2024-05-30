@@ -12,7 +12,9 @@ def initialize_gates(data):
         index = entry['index']
         name = entry['name']
         code = entry.get('sourceName', entry.get('sourceName ', '!NULL!'))
-        gate_list.append(Gate(index, name, code))
+        locx = entry['latitude']
+        locy = entry['longitude']
+        gate_list.append(Gate(index, name, code, locx, locy))
     return gate_list
 
 def process_data(data):

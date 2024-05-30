@@ -17,12 +17,10 @@ def main():
         conn, cursor = initialize_database(output_db)
         db_data = load_json(dbsnapshot_file)
         gate_list = process_data(db_data)
-
         rates_data = load_json(rates_file)
         rate_data_list = setup_ratedata(rates_data)
 
         matched_data = match_gates_and_rates(gate_list, rate_data_list)
-
         insert_data(cursor, gate_list, matched_data)
 
         conn.commit()
