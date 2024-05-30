@@ -1,6 +1,23 @@
 from models.gate import Gate
 from models.ratedata import RateData
 from models.dbratematch import DbRateMatch
+import re
+
+def check_cardinality(gate_list):
+    for gate in gate_list:
+        if re.search(r'(\s)S(\s|$)', gate.name):
+            gate.cardinality = "S"
+        elif re.search(r'(\s)N(\s|$)', gate.name):
+            gate.cardinality = "N"
+        elif re.search(r'(\s)E(\s|$)', gate.name):
+            gate.cardinality = "E"
+        elif re.search(r'(\s)W(\s|$)', gate.name):
+            gate.cardinality = "W"
+        else:
+            gate.cardinality = "-"
+        gate.name_less_direction = re.sub(r'\s[NSEW]\s', ' ', gate.name)
+    return gate_list
+
 
 def match_gates_and_rates(gates, rate_data_list):
     matched_data = []
