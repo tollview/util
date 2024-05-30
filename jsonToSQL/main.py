@@ -2,7 +2,7 @@ import os
 from functions.backup import backup_database
 from functions.database import initialize_database, insert_data
 from functions.json_parser import load_json, process_data, setup_ratedata
-from functions.matcher import match_gates_and_rates
+from functions.matcher import match_gates_and_rates, log_unmatched_data
 
 def main():
     dbsnapshot_file = './json/dbsnapshot.json'
@@ -20,13 +20,16 @@ def main():
         rates_data = load_json(rates_file)
         rate_data_list = setup_ratedata(rates_data)
 
-        matched_data = match_gates_and_rates(gate_list, rate_data_list)
+        matched_data, unmatched_data = match_gates_and_rates(gate_list, rate_data_list)
         insert_data(cursor, gate_list, matched_data)
+        
+        log_unmatched_data(unmatched_data)
 
         conn.commit()
     except Exception as e:
         print(f"An error occurred: {e}")
     finally:
+
         if 'conn' in locals():
             conn.close()
     print(f"updated {output_db}")
