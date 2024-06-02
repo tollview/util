@@ -2,7 +2,7 @@ import os
 from functions.backup import backup_database
 from functions.database import initialize_database, insert_data
 from functions.json_parser import load_json, process_data, setup_ratedata, setup_locdata
-from functions.matcher import match_gates_and_rates, check_cardinality, pair_nswe_codes, log_unmatched_data
+from functions.matcher import match_gates_and_rates, check_cardinality, pair_nswe_codes, log_unmatched_data, match_rates_and_loc
 
 def main():
     dbsnapshot_file = './json/dbsnapshot.json'
@@ -28,14 +28,18 @@ def main():
         rates_data = load_json(rates_file)
         rate_data_list = setup_ratedata(rates_data)
 
-        matched_data, unmatched_data = match_gates_and_rates(gate_list, rate_data_list)
-
         loc_data = load_json(location_file)
         loc_data_list = setup_locdata(loc_data)
-        
-        print("---LOC_DATA_LIST---")
-        for loc_data in loc_data_list:
-            print(f"Plaza ID: {loc_data.plaza_id}, Name: {loc_data.loc_name}, LocX: {loc_data.locx}, LocY: {loc_data.locy}")
+
+        rate_data_list = match_rates_and_loc(rate_data_list, loc_data_list)
+
+        print(f"---RATE DATA LIST WITH APPENDED LOCATION INFO---")
+        for rate_data in rate_data_list:
+            print(f"Plaza ID: {rate_data.plaza_id}, Code: {rate_data.code}, Cost: {rate_data.cost}, "
+                  f"Location Name: {rate_data.loc_name}, LocX: {rate_data.locx}, LocY: {rate_data.locy}")
+
+        matched_data, unmatched_data = match_gates_and_rates(gate_list, rate_data_list)
+
 
         insert_data(cursor, gate_list, matched_data)
 

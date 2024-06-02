@@ -34,6 +34,18 @@ def pair_nswe_codes(gate_list):
 
     return gate_list
 
+def match_rates_and_loc(rate_data_list, loc_data_list):
+    loc_dict = {loc.plaza_id: loc for loc in loc_data_list}
+    
+    for rate_data in rate_data_list:
+        if rate_data.plaza_id in loc_dict:
+            loc_data = loc_dict[rate_data.plaza_id]
+            rate_data.loc_name = loc_data.loc_name
+            rate_data.locx = loc_data.locx
+            rate_data.locy = loc_data.locy
+    
+    return rate_data_list
+
 def match_gates_and_rates(gates, rate_data_list):
     matched_data = []
     unmatched_data = []
