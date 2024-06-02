@@ -1,6 +1,7 @@
 import json
 from models.gate import Gate
 from models.ratedata import RateData
+from models.locdata import LocData
 
 def load_json(input_file):
     with open(input_file, 'r') as file:
@@ -29,3 +30,14 @@ def setup_ratedata(rates_data):
         rate_data = RateData(plaza_id, code, cost)
         rate_data_list.append(rate_data)
     return rate_data_list
+
+def setup_locdata(loc_data):
+    loc_data_list = []
+    for entry in loc_data['features']:
+        plaza_id = entry['attributes']['PLAZA_ID']
+        loc_name = entry['attributes']['ROADWAY_DESC']
+        locx = entry['attributes']['X_COORD']
+        locy = entry['attributes']['Y_COORD']
+        loc_data = LocData(plaza_id, loc_name, locx, locy)
+        loc_data_list.append(loc_data)
+    return loc_data_list
