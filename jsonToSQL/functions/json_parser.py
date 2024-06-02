@@ -11,7 +11,7 @@ def initialize_gates(data):
     for entry in data:
         index = entry['index']
         name = entry['name']
-        code = entry.get('sourceName', entry.get('sourceName ', 'NULL'))
+        code = entry.get('sourceName', entry.get('sourceName ', entry.get('soruceName', entry.get('soruceName ', 'NULL'))))
         locx = entry['latitude']
         locy = entry['longitude']
         gate_list.append(Gate(index, name, code, locx, locy))

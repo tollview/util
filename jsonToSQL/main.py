@@ -2,7 +2,7 @@ import os
 from functions.backup import backup_database
 from functions.database import initialize_database, insert_data
 from functions.json_parser import load_json, process_data, setup_ratedata
-from functions.matcher import match_gates_and_rates, check_cardinality, log_unmatched_data
+from functions.matcher import match_gates_and_rates, check_cardinality, pair_nswe_codes, log_unmatched_data
 
 def main():
     dbsnapshot_file = './json/dbsnapshot.json'
@@ -19,10 +19,11 @@ def main():
         gate_list = process_data(db_data)
         
         gate_list = check_cardinality(gate_list)
-        print("Gate objects after applying cardinality and name_less_direction:")
-        for gate in gate_list:
-            print(f"Index: {gate.index}, Name: {gate.name}, Cardinality: {gate.cardinality}, Name Less Direction: {gate.name_less_direction}")
+        gate_list = pair_nswe_codes(gate_list)
         
+        for gate in gate_list:
+            print(f"Index: {gate.index}, Name: {gate.name}, code: {gate.code}")
+
         rates_data = load_json(rates_file)
         rate_data_list = setup_ratedata(rates_data)
 
@@ -30,6 +31,7 @@ def main():
         insert_data(cursor, gate_list, matched_data)
 
         log_unmatched_data(unmatched_data)
+        print(f"unmatch count: {len(unmatched_data)}")
 
         conn.commit()
     except Exception as e:

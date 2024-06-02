@@ -15,9 +15,24 @@ def check_cardinality(gate_list):
             gate.cardinality = "W"
         else:
             gate.cardinality = "-"
-        gate.name_less_direction = re.sub(r'\s[NSEW]\s', ' ', gate.name)
+        gate.name_less_direction = re.sub(r'\s[NSEW](\s|$)', ' ', gate.name).strip()
     return gate_list
 
+def pair_nswe_codes(gate_list):
+    for gate in gate_list:
+        gate.name_less_direction = gate.name_less_direction.replace(' Entry', '').replace(' Exit', '').strip()
+
+    for i in range(len(gate_list) - 1):
+        current_gate = gate_list[i]
+        next_gate = gate_list[i + 1]
+
+        if current_gate.name_less_direction == next_gate.name_less_direction:
+            if current_gate.code == 'NULL' and next_gate.code != 'NULL':
+                current_gate.code = next_gate.code
+            elif next_gate.code == 'NULL' and current_gate.code != 'NULL':
+                next_gate.code = current_gate.code
+
+    return gate_list
 
 def match_gates_and_rates(gates, rate_data_list):
     matched_data = []
