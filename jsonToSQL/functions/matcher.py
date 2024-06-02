@@ -64,4 +64,4 @@ def match_gates_and_rates(gates, rate_data_list):
 def log_unmatched_data(unmatched_data):
     print("---rates mismatches---")
     for data in unmatched_data:
-        print(f"{data.code} | {data.plaza_id}")
+        print(f"{data.code} | {data.plaza_id} | {data.loc_name} | {data.locx} | {data.locy}")

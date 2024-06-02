@@ -31,15 +31,14 @@ def main():
         loc_data = load_json(location_file)
         loc_data_list = setup_locdata(loc_data)
 
+        matched_data, unmatched_data = match_gates_and_rates(gate_list, rate_data_list)
+
         rate_data_list = match_rates_and_loc(rate_data_list, loc_data_list)
 
         print(f"---RATE DATA LIST WITH APPENDED LOCATION INFO---")
         for rate_data in rate_data_list:
             print(f"Plaza ID: {rate_data.plaza_id}, Code: {rate_data.code}, Cost: {rate_data.cost}, "
                   f"Location Name: {rate_data.loc_name}, LocX: {rate_data.locx}, LocY: {rate_data.locy}")
-
-        matched_data, unmatched_data = match_gates_and_rates(gate_list, rate_data_list)
-
 
         insert_data(cursor, gate_list, matched_data)
 
