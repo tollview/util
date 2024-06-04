@@ -20,10 +20,6 @@ def main():
         
         gate_list = check_cardinality(gate_list)
         gate_list = pair_nswe_codes(gate_list)
-        
-        print(f"---GATESLIST AFTER NSWE PAIRING---")
-        for gate in gate_list:
-            print(f"Index: {gate.index}, Name: {gate.name}, code: {gate.code}")
 
         rates_data = load_json(rates_file)
         rate_data_list = setup_ratedata(rates_data)
@@ -31,19 +27,13 @@ def main():
         loc_data = load_json(location_file)
         loc_data_list = setup_locdata(loc_data)
 
+        rate_data_list = match_rates_and_loc(rate_data_list, loc_data_list)
         matched_data, unmatched_data = match_gates_and_rates(gate_list, rate_data_list)
 
-        rate_data_list = match_rates_and_loc(rate_data_list, loc_data_list)
-
-        print(f"---RATE DATA LIST WITH APPENDED LOCATION INFO---")
-        for rate_data in rate_data_list:
-            print(f"Plaza ID: {rate_data.plaza_id}, Code: {rate_data.code}, Cost: {rate_data.cost}, "
-                  f"Location Name: {rate_data.loc_name}, LocX: {rate_data.locx}, LocY: {rate_data.locy}")
+        if unmatched_data:
+            log_unmatched_data(unmatched_data)
 
         insert_data(cursor, gate_list, matched_data)
-
-        log_unmatched_data(unmatched_data)
-        print(f"unmatch count: {len(unmatched_data)}")
 
         conn.commit()
     except Exception as e:
