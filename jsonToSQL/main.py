@@ -9,6 +9,7 @@ def main():
     rates_file = './json/RatesResponse.json'
     location_file = './json/LocationsResponse.json'
     output_db = '../gateslist.db'
+    output_json = './json/dfwGantryList.json'
 
     if os.path.exists(output_db):
         backup_database(output_db)
@@ -33,7 +34,7 @@ def main():
         if unmatched_data:
             log_unmatched_data(unmatched_data)
 
-        insert_data(cursor, gate_list, matched_data)
+        insert_data(cursor, gate_list, matched_data, output_json)
 
         conn.commit()
     except Exception as e:
