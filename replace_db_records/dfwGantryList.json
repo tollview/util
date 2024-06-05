@@ -7,7 +7,7 @@
         "latitude": 32.8141574713913,
         "longitude": -96.81780074324566,
         "cardinality": "S",
-        "gateId": "6842758d-ea93-45fc-8b3a-5258e466ff38"
+        "id": "6842758d-ea93-45fc-8b3a-5258e466ff38"
     },
     {
         "name": "DNT at Wycliff N",
@@ -17,7 +17,7 @@
         "latitude": 32.813955317384156,
         "longitude": -96.8176544376295,
         "cardinality": "N",
-        "gateId": "fd36d221-bb4a-4c9e-b19e-22769a42b5fd"
+        "id": "fd36d221-bb4a-4c9e-b19e-22769a42b5fd"
     },
     {
         "name": "DNT Mockingbird S Exit",
@@ -27,7 +27,7 @@
         "latitude": 32.837851510158906,
         "longitude": -96.81506047808473,
         "cardinality": "S",
-        "gateId": "9130040f-b720-42ca-ae79-8a0618f9e16d"
+        "id": "9130040f-b720-42ca-ae79-8a0618f9e16d"
     },
     {
         "name": "DNT Mockingbird N Entry",
@@ -37,7 +37,7 @@
         "latitude": 32.83796946413595,
         "longitude": -96.81460403760342,
         "cardinality": "N",
-        "gateId": "1a89fa1a-b7f0-4c5e-bf4e-f706753f1afc"
+        "id": "1a89fa1a-b7f0-4c5e-bf4e-f706753f1afc"
     },
     {
         "name": "DNT NW HWY S Exit",
@@ -47,7 +47,7 @@
         "latitude": 32.86781043708529,
         "longitude": -96.81145014026598,
         "cardinality": "S",
-        "gateId": "d7bbefe4-05c7-4cc1-bf27-adfb471cbabb"
+        "id": "d7bbefe4-05c7-4cc1-bf27-adfb471cbabb"
     },
     {
         "name": "DNT NW HWY N Entry",
@@ -57,7 +57,7 @@
         "latitude": 32.86657106287848,
         "longitude": -96.81110311142956,
         "cardinality": "N",
-        "gateId": "a5795536-d394-458c-a3ae-4188b2cd894d"
+        "id": "a5795536-d394-458c-a3ae-4188b2cd894d"
     },
     {
         "name": "DNT Royal S Exit",
@@ -67,7 +67,7 @@
         "latitude": 32.89576650302288,
         "longitude": -96.80992304267286,
         "cardinality": "S",
-        "gateId": "5b456a0d-fdb1-4af7-8135-db0c60a94eda"
+        "id": "5b456a0d-fdb1-4af7-8135-db0c60a94eda"
     },
     {
         "name": "DNT Royal N Entry",
@@ -77,7 +77,7 @@
         "latitude": 32.89611990512217,
         "longitude": -96.80954313297488,
         "cardinality": "N",
-        "gateId": "b530e2ea-eb3c-4495-926a-b83ee42fa45c"
+        "id": "b530e2ea-eb3c-4495-926a-b83ee42fa45c"
     },
     {
         "name": "DNT Spring Valley S Entry",
@@ -87,7 +87,7 @@
         "latitude": 32.93462347227056,
         "longitude": -96.82225764936973,
         "cardinality": "S",
-        "gateId": "186ac84c-e94d-403e-aac3-131eda050574"
+        "id": "186ac84c-e94d-403e-aac3-131eda050574"
     },
     {
         "name": "DNT Spring Valley N Exit",
@@ -97,7 +97,7 @@
         "latitude": 32.933987835952315,
         "longitude": -96.82179082474264,
         "cardinality": "N",
-        "gateId": "b46c31ff-4562-4bce-bc16-d00f97ef3813"
+        "id": "b46c31ff-4562-4bce-bc16-d00f97ef3813"
     },
     {
         "name": "DNT Belt Line S Entry",
@@ -107,7 +107,7 @@
         "latitude": 32.952465200036535,
         "longitude": -96.82274988389528,
         "cardinality": "S",
-        "gateId": "50492bcd-9011-460e-ba3f-7e80a36f3e41"
+        "id": "50492bcd-9011-460e-ba3f-7e80a36f3e41"
     },
     {
         "name": "DNT Belt Line N Exit",
@@ -117,7 +117,7 @@
         "latitude": 32.95006050928252,
         "longitude": -96.82317841756756,
         "cardinality": "N",
-        "gateId": "a1e6f311-5a5d-4bb3-b82c-a0808a3b760d"
+        "id": "a1e6f311-5a5d-4bb3-b82c-a0808a3b760d"
     },
     {
         "name": "DNT Keller Springs S Entry",
@@ -127,7 +127,7 @@
         "latitude": 32.96618209486029,
         "longitude": -96.82183748122128,
         "cardinality": "S",
-        "gateId": "e16be4aa-69fe-403f-9cbf-4636cad9c9d7"
+        "id": "e16be4aa-69fe-403f-9cbf-4636cad9c9d7"
     },
     {
         "name": "DNT Keller Springs N Exit",
@@ -137,7 +137,7 @@
         "latitude": 32.96597039137599,
         "longitude": -96.82117428115528,
         "cardinality": "N",
-        "gateId": "dbd6b617-4cd9-4ae8-b7aa-abcd3cdc2b08"
+        "id": "dbd6b617-4cd9-4ae8-b7aa-abcd3cdc2b08"
     },
     {
         "name": "DNT at Trinity Mills S",
@@ -147,7 +147,7 @@
         "latitude": 32.985075876361954,
         "longitude": -96.82865059579056,
         "cardinality": "S",
-        "gateId": "7b303a3a-b8e3-493e-abd8-4a8d28f580d6"
+        "id": "7b303a3a-b8e3-493e-abd8-4a8d28f580d6"
     },
     {
         "name": "DNT at Trinity Mills N",
@@ -157,7 +157,7 @@
         "latitude": 32.98484646837166,
         "longitude": -96.82849136185213,
         "cardinality": "N",
-        "gateId": "f88b847f-45fc-4d8b-af58-b1b8a033b11f"
+        "id": "f88b847f-45fc-4d8b-af58-b1b8a033b11f"
     },
     {
         "name": "DNT Frankford S Exit",
@@ -167,7 +167,7 @@
         "latitude": 33.00164211568056,
         "longitude": -96.82943174440938,
         "cardinality": "S",
-        "gateId": "baabd51c-3ee4-453e-92e0-93db5bb37994"
+        "id": "baabd51c-3ee4-453e-92e0-93db5bb37994"
     },
     {
         "name": "DNT Frankford N Entry",
@@ -177,7 +177,7 @@
         "latitude": 32.99970627095816,
         "longitude": -96.82905732961638,
         "cardinality": "N",
-        "gateId": "f46c34ba-7110-4493-a88d-96a126306746"
+        "id": "f46c34ba-7110-4493-a88d-96a126306746"
     },
     {
         "name": "DNT Park S Entry",
@@ -187,7 +187,7 @@
         "latitude": 33.025080139697174,
         "longitude": -96.83016556146751,
         "cardinality": "S",
-        "gateId": "77f7d1e9-29e5-4f6a-b666-223b0724455b"
+        "id": "77f7d1e9-29e5-4f6a-b666-223b0724455b"
     },
     {
         "name": "DNT Park N Exit",
@@ -197,7 +197,7 @@
         "latitude": 33.023077505188446,
         "longitude": -96.82948420326328,
         "cardinality": "N",
-        "gateId": "aa5280ec-260d-4322-860b-2ee0e3a90abb"
+        "id": "aa5280ec-260d-4322-860b-2ee0e3a90abb"
     },
     {
         "name": "DNT Park N Exit",
@@ -207,7 +207,7 @@
         "latitude": 33.02142472908322,
         "longitude": -96.82923253848351,
         "cardinality": "N",
-        "gateId": "8fa57b60-3c44-45b5-b6e1-1fd07eb30989"
+        "id": "8fa57b60-3c44-45b5-b6e1-1fd07eb30989"
     },
     {
         "name": "DNT at Parker S",
@@ -217,7 +217,7 @@
         "latitude": 33.03809631730838,
         "longitude": -96.82976490789223,
         "cardinality": "S",
-        "gateId": "71c1833b-318f-41fd-9794-3829df181c4a"
+        "id": "71c1833b-318f-41fd-9794-3829df181c4a"
     },
     {
         "name": "DNT at Parker N",
@@ -227,7 +227,7 @@
         "latitude": 33.03790925797767,
         "longitude": -96.82954957406425,
         "cardinality": "N",
-        "gateId": "cdadf3ef-148e-4f7f-91b4-0291a6103102"
+        "id": "cdadf3ef-148e-4f7f-91b4-0291a6103102"
     },
     {
         "name": "DNT Parker S Exit",
@@ -237,7 +237,7 @@
         "latitude": 33.052688276088396,
         "longitude": -96.83015367416965,
         "cardinality": "S",
-        "gateId": "28825591-de78-45f1-89cb-7e1e6797a0b6"
+        "id": "28825591-de78-45f1-89cb-7e1e6797a0b6"
     },
     {
         "name": "DNT Parker N Entry",
@@ -247,7 +247,7 @@
         "latitude": 33.051810510952244,
         "longitude": -96.82960364072075,
         "cardinality": "N",
-        "gateId": "e0dfd4e5-e578-46ab-abcf-d7b96fa7ccfa"
+        "id": "e0dfd4e5-e578-46ab-abcf-d7b96fa7ccfa"
     },
     {
         "name": "DNT Windhaven S Exit",
@@ -257,7 +257,7 @@
         "latitude": 33.05767788973656,
         "longitude": -96.82966083742976,
         "cardinality": "S",
-        "gateId": "db376f99-9d10-4974-a7bf-757b4746cf69"
+        "id": "db376f99-9d10-4974-a7bf-757b4746cf69"
     },
     {
         "name": "DNT Windhaven N Entry",
@@ -267,7 +267,7 @@
         "latitude": 33.05687753566682,
         "longitude": -96.82934571082099,
         "cardinality": "N",
-        "gateId": "6c62c624-ee99-48af-814b-1e5f181d1d15"
+        "id": "6c62c624-ee99-48af-814b-1e5f181d1d15"
     },
     {
         "name": "DNT Spring Creek S Exit",
@@ -277,7 +277,7 @@
         "latitude": 33.06889265624543,
         "longitude": -96.82479834322764,
         "cardinality": "S",
-        "gateId": "0799a23c-c500-4f63-989a-418f16f669cd"
+        "id": "0799a23c-c500-4f63-989a-418f16f669cd"
     },
     {
         "name": "DNT Spring Creek N Entry",
@@ -287,7 +287,7 @@
         "latitude": 33.06838289391536,
         "longitude": -96.82425058698861,
         "cardinality": "N",
-        "gateId": "b9e837ad-7507-4432-b9af-96ab1a6e87a9"
+        "id": "b9e837ad-7507-4432-b9af-96ab1a6e87a9"
     },
     {
         "name": "DNT Legacy S Exit",
@@ -297,7 +297,7 @@
         "latitude": 33.08241764252241,
         "longitude": -96.82469561779371,
         "cardinality": "S",
-        "gateId": "031edf2f-fee1-4712-8fc8-490052e7988c"
+        "id": "031edf2f-fee1-4712-8fc8-490052e7988c"
     },
     {
         "name": "DNT Headquarters N Entry",
@@ -307,7 +307,7 @@
         "latitude": 33.087839031662604,
         "longitude": -96.82262813787136,
         "cardinality": "N",
-        "gateId": "bacc8856-0210-472d-8a51-73146c30efc2"
+        "id": "bacc8856-0210-472d-8a51-73146c30efc2"
     },
     {
         "name": "DNT Gaylord S Entry",
@@ -317,7 +317,7 @@
         "latitude": 33.09456570235268,
         "longitude": -96.82310462681617,
         "cardinality": "S",
-        "gateId": "30d52993-c05b-4843-9582-da0bbc8c2530"
+        "id": "30d52993-c05b-4843-9582-da0bbc8c2530"
     },
     {
         "name": "DNT Gaylord N Exit",
@@ -327,7 +327,7 @@
         "latitude": 33.094111946695165,
         "longitude": -96.82259240354344,
         "cardinality": "N",
-        "gateId": "f4f0c916-505b-4775-a871-feea90541250"
+        "id": "f4f0c916-505b-4775-a871-feea90541250"
     },
     {
         "name": "DNT Lebanon S Entry",
@@ -337,7 +337,7 @@
         "latitude": 33.110540446638716,
         "longitude": -96.82384211710398,
         "cardinality": "S",
-        "gateId": "360db359-ce53-4e9f-9c81-5accc6a1a07e"
+        "id": "360db359-ce53-4e9f-9c81-5accc6a1a07e"
     },
     {
         "name": "DNT Lebanon N Exit",
@@ -347,7 +347,7 @@
         "latitude": 33.110274862737114,
         "longitude": -96.82322443692775,
         "cardinality": "N",
-        "gateId": "198b1b9b-6599-43d8-b4ca-a02a49a20bbd"
+        "id": "198b1b9b-6599-43d8-b4ca-a02a49a20bbd"
     },
     {
         "name": "DNT Stonbrook S Entry",
@@ -357,7 +357,7 @@
         "latitude": 33.128190855756735,
         "longitude": -96.82399191268343,
         "cardinality": "S",
-        "gateId": "928609bc-9d52-475e-813d-6cf859a8c8a3"
+        "id": "928609bc-9d52-475e-813d-6cf859a8c8a3"
     },
     {
         "name": "DNT Stonebrook N Exit",
@@ -367,7 +367,7 @@
         "latitude": 33.12775936405801,
         "longitude": -96.82326928609383,
         "cardinality": "N",
-        "gateId": "4cf4456b-6cb9-417a-87b4-986245b52a5a"
+        "id": "4cf4456b-6cb9-417a-87b4-986245b52a5a"
     },
     {
         "name": "DNT Main S Entry",
@@ -377,7 +377,7 @@
         "latitude": 33.14068885707877,
         "longitude": -96.83879301673977,
         "cardinality": "S",
-        "gateId": "349ef3fd-274a-48da-8773-5aeeba296538"
+        "id": "349ef3fd-274a-48da-8773-5aeeba296538"
     },
     {
         "name": "DNT Main N Exit",
@@ -387,7 +387,7 @@
         "latitude": 33.14099976538281,
         "longitude": -96.83827751351406,
         "cardinality": "N",
-        "gateId": "c37553b1-20ea-4a9f-a3df-b5ae71960e9e"
+        "id": "c37553b1-20ea-4a9f-a3df-b5ae71960e9e"
     },
     {
         "name": "DNT at Eldorado S",
@@ -397,7 +397,7 @@
         "latitude": 33.16399124619109,
         "longitude": -96.84008075205641,
         "cardinality": "S",
-        "gateId": "83d7eac7-da4e-41ba-bed3-4cd37728a98f"
+        "id": "83d7eac7-da4e-41ba-bed3-4cd37728a98f"
     },
     {
         "name": "DNT at Eldorado N",
@@ -407,7 +407,7 @@
         "latitude": 33.163987016468035,
         "longitude": -96.83988893194433,
         "cardinality": "N",
-        "gateId": "31a006af-a093-4834-9931-ba7652a28fdb"
+        "id": "31a006af-a093-4834-9931-ba7652a28fdb"
     },
     {
         "name": "DNT Eldorado S Exit",
@@ -417,7 +417,7 @@
         "latitude": 33.184687006518764,
         "longitude": -96.83954544741302,
         "cardinality": "S",
-        "gateId": "def5dc7d-df52-4533-afd8-eb1af323f8e1"
+        "id": "def5dc7d-df52-4533-afd8-eb1af323f8e1"
     },
     {
         "name": "DNT Eldorado N Entry",
@@ -427,7 +427,7 @@
         "latitude": 33.184314179000225,
         "longitude": -96.83894259467434,
         "cardinality": "N",
-        "gateId": "341e4f2a-1b4a-4a96-94c0-9aeec8c9d0c6"
+        "id": "341e4f2a-1b4a-4a96-94c0-9aeec8c9d0c6"
     },
     {
         "name": "Addison Airport E",
@@ -437,7 +437,7 @@
         "latitude": 32.968901068065726,
         "longitude": -96.84099580122752,
         "cardinality": "E",
-        "gateId": "8cdc60ea-d1a9-4dea-91d0-14aa9e4c499c"
+        "id": "8cdc60ea-d1a9-4dea-91d0-14aa9e4c499c"
     },
     {
         "name": "Addison Airport W",
@@ -447,7 +447,7 @@
         "latitude": 32.96905527024173,
         "longitude": -96.84097969610103,
         "cardinality": "W",
-        "gateId": "17d440c0-106a-4431-b6ab-4fe297975088"
+        "id": "17d440c0-106a-4431-b6ab-4fe297975088"
     },
     {
         "name": "SRT at MacArthur S",
@@ -457,7 +457,7 @@
         "latitude": 32.98818705474032,
         "longitude": -96.98288773451259,
         "cardinality": "S",
-        "gateId": "fa8ecc96-7d4c-4665-97f4-8226a225f316"
+        "id": "fa8ecc96-7d4c-4665-97f4-8226a225f316"
     },
     {
         "name": "SRT at MacArthur N",
@@ -467,7 +467,7 @@
         "latitude": 32.987830838930996,
         "longitude": -96.98295026711625,
         "cardinality": "N",
-        "gateId": "b9332d23-173a-4ded-9515-d99183858f06"
+        "id": "b9332d23-173a-4ded-9515-d99183858f06"
     },
     {
         "name": "SRT MacArthur S Exit",
@@ -477,7 +477,7 @@
         "latitude": 32.993774756816,
         "longitude": -96.9700063418959,
         "cardinality": "S",
-        "gateId": "a00f2e4f-e265-451e-abfa-04717e1f0f7b"
+        "id": "a00f2e4f-e265-451e-abfa-04717e1f0f7b"
     },
     {
         "name": "SRT MacArthur N Entry",
@@ -487,7 +487,7 @@
         "latitude": 32.99318962477255,
         "longitude": -96.9702216089334,
         "cardinality": "N",
-        "gateId": "4f818043-e49e-44d1-96b5-7c633c4ecfe6"
+        "id": "4f818043-e49e-44d1-96b5-7c633c4ecfe6"
     },
     {
         "name": "SRT Carrollton S Entry",
@@ -497,7 +497,7 @@
         "latitude": 33.03393221658548,
         "longitude": -96.9264799036922,
         "cardinality": "S",
-        "gateId": "0cf36aad-c0c9-449a-8028-4a1f8786cd2e"
+        "id": "0cf36aad-c0c9-449a-8028-4a1f8786cd2e"
     },
     {
         "name": "SRT Carrollton N Exit",
@@ -507,7 +507,7 @@
         "latitude": 33.02503208071136,
         "longitude": -96.93199699242939,
         "cardinality": "N",
-        "gateId": "aa359097-ec83-4538-9050-86976037ca5f"
+        "id": "aa359097-ec83-4538-9050-86976037ca5f"
     },
     {
         "name": "SRT Parker S Entry",
@@ -517,7 +517,7 @@
         "latitude": 33.038779301287306,
         "longitude": -96.92352196421434,
         "cardinality": "S",
-        "gateId": "3e80a600-e251-4e82-9ae0-2eecf6f711ca"
+        "id": "3e80a600-e251-4e82-9ae0-2eecf6f711ca"
     },
     {
         "name": "SRT Parker N Exit",
@@ -527,7 +527,7 @@
         "latitude": 33.03711999679027,
         "longitude": -96.92339561352449,
         "cardinality": "N",
-        "gateId": "6a83e324-de01-49e9-a27b-ac576a8d1188"
+        "id": "6a83e324-de01-49e9-a27b-ac576a8d1188"
     },
     {
         "name": "SRT Old Denton S Entry",
@@ -537,7 +537,7 @@
         "latitude": 33.04931880840469,
         "longitude": -96.9219275523036,
         "cardinality": "S",
-        "gateId": "89f00053-bd7c-4928-b835-f229c0256057"
+        "id": "89f00053-bd7c-4928-b835-f229c0256057"
     },
     {
         "name": "SRT Old Denton N Exit",
@@ -547,7 +547,7 @@
         "latitude": 33.047638603895535,
         "longitude": -96.92191505840029,
         "cardinality": "N",
-        "gateId": "ac56536b-9806-4b37-a8a6-99d69e7a8265"
+        "id": "ac56536b-9806-4b37-a8a6-99d69e7a8265"
     },
     {
         "name": "SRT Standridge S Entry",
@@ -557,7 +557,7 @@
         "latitude": 33.0563709547502,
         "longitude": -96.9103434002467,
         "cardinality": "S",
-        "gateId": "5a4d0918-b498-47b5-b733-b881992bde68"
+        "id": "5a4d0918-b498-47b5-b733-b881992bde68"
     },
     {
         "name": "SRT Standridge N Exit",
@@ -567,7 +567,7 @@
         "latitude": 33.05811543945639,
         "longitude": -96.90478245733446,
         "cardinality": "N",
-        "gateId": "c2206496-3213-4c2b-97ee-80d99e4392c1"
+        "id": "c2206496-3213-4c2b-97ee-80d99e4392c1"
     },
     {
         "name": "SRT Josey S Entry",
@@ -577,7 +577,7 @@
         "latitude": 33.06170126291607,
         "longitude": -96.89862739744815,
         "cardinality": "S",
-        "gateId": "ff9809fe-29f2-4d37-b6fb-c5566df076f4"
+        "id": "ff9809fe-29f2-4d37-b6fb-c5566df076f4"
     },
     {
         "name": "SRT Josey N Exit",
@@ -587,7 +587,7 @@
         "latitude": 33.06047354115724,
         "longitude": -96.89975559474527,
         "cardinality": "N",
-        "gateId": "ef352529-3d54-42a3-8425-7bec82daaa45"
+        "id": "ef352529-3d54-42a3-8425-7bec82daaa45"
     },
     {
         "name": "SRT at Josey S",
@@ -597,7 +597,7 @@
         "latitude": 33.062105954305984,
         "longitude": -96.89732510585254,
         "cardinality": "S",
-        "gateId": "6b85409e-b3d5-4659-9bdb-da2bab3d0d77"
+        "id": "6b85409e-b3d5-4659-9bdb-da2bab3d0d77"
     },
     {
         "name": "SRT at Josey N",
@@ -607,7 +607,7 @@
         "latitude": 33.061709051048986,
         "longitude": -96.89742645105979,
         "cardinality": "N",
-        "gateId": "6aef5a93-f188-447c-9341-cead9b861938"
+        "id": "6aef5a93-f188-447c-9341-cead9b861938"
     },
     {
         "name": "SRT Standridge S Exit",
@@ -617,7 +617,7 @@
         "latitude": 33.06387577596741,
         "longitude": -96.89389374876538,
         "cardinality": "S",
-        "gateId": "22334e4b-1290-4561-9fe5-8d3d0003aa85"
+        "id": "22334e4b-1290-4561-9fe5-8d3d0003aa85"
     },
     {
         "name": "SRT Standridge N Entry",
@@ -627,7 +627,7 @@
         "latitude": 33.06300624137278,
         "longitude": -96.89423706035006,
         "cardinality": "N",
-        "gateId": "fbcfc54a-5e99-4b59-925c-acc3378f4346"
+        "id": "fbcfc54a-5e99-4b59-925c-acc3378f4346"
     },
     {
         "name": "SRT Josey S Exit",
@@ -637,7 +637,7 @@
         "latitude": 33.07041973970277,
         "longitude": -96.87953020409793,
         "cardinality": "S",
-        "gateId": "3f54151f-09cb-4abd-98a9-646cacbf6168"
+        "id": "3f54151f-09cb-4abd-98a9-646cacbf6168"
     },
     {
         "name": "SRT Josey N Entry",
@@ -647,7 +647,7 @@
         "latitude": 33.06949121318237,
         "longitude": -96.88018407987686,
         "cardinality": "N",
-        "gateId": "bf4b8f46-8422-4ed5-afde-622440911d55"
+        "id": "bf4b8f46-8422-4ed5-afde-622440911d55"
     },
     {
         "name": "SRT Plano S Exit",
@@ -657,7 +657,7 @@
         "latitude": 33.07989600423371,
         "longitude": -96.85868655894586,
         "cardinality": "S",
-        "gateId": "09e69b68-5e46-4191-b09d-cdf6702ab802"
+        "id": "09e69b68-5e46-4191-b09d-cdf6702ab802"
     },
     {
         "name": "SRT Plano N Entry",
@@ -667,7 +667,7 @@
         "latitude": 33.079452843582764,
         "longitude": -96.85844718362868,
         "cardinality": "N",
-        "gateId": "65101918-c319-452f-86c2-a95df0509b4a"
+        "id": "65101918-c319-452f-86c2-a95df0509b4a"
     },
     {
         "name": "SRT Spring Creek S Exit",
@@ -677,7 +677,7 @@
         "latitude": 33.08592401090309,
         "longitude": -96.84290280618123,
         "cardinality": "S",
-        "gateId": "b5e037af-1841-421d-957c-e0e8e20c4b83"
+        "id": "b5e037af-1841-421d-957c-e0e8e20c4b83"
     },
     {
         "name": "SRT Spring Creek N Entry",
@@ -687,7 +687,7 @@
         "latitude": 33.08551642828056,
         "longitude": -96.84156097264459,
         "cardinality": "N",
-        "gateId": "89d962a8-506d-4d15-b557-817bac4a11f4"
+        "id": "89d962a8-506d-4d15-b557-817bac4a11f4"
     },
     {
         "name": "SRT Preston S Entry",
@@ -697,7 +697,7 @@
         "latitude": 33.094831019796466,
         "longitude": -96.81171858421912,
         "cardinality": "S",
-        "gateId": "dfdad75b-67f7-4a8d-95b5-891832ab83b0"
+        "id": "dfdad75b-67f7-4a8d-95b5-891832ab83b0"
     },
     {
         "name": "SRT Preston N Exit",
@@ -707,7 +707,7 @@
         "latitude": 33.09458327488279,
         "longitude": -96.8101644344272,
         "cardinality": "N",
-        "gateId": "f7d83b2f-186a-4288-a35a-ec097b73a0a7"
+        "id": "f7d83b2f-186a-4288-a35a-ec097b73a0a7"
     },
     {
         "name": "SRT Hillcrest S Entry",
@@ -717,7 +717,7 @@
         "latitude": 33.0994016013636,
         "longitude": -96.80080588640976,
         "cardinality": "S",
-        "gateId": "22f8238d-228d-4e82-88cd-28f37aa826f2"
+        "id": "22f8238d-228d-4e82-88cd-28f37aa826f2"
     },
     {
         "name": "SRT Hillcrest N Exit",
@@ -727,7 +727,7 @@
         "latitude": 33.098586675336264,
         "longitude": -96.8010165844807,
         "cardinality": "N",
-        "gateId": "299db726-3ee1-4146-adb6-002f0c254b28"
+        "id": "299db726-3ee1-4146-adb6-002f0c254b28"
     },
     {
         "name": "SRT Coit S Entry",
@@ -737,7 +737,7 @@
         "latitude": 33.10689855174235,
         "longitude": -96.78219124415884,
         "cardinality": "S",
-        "gateId": "fd90fb71-e9b7-4009-bd9d-0cf0d65a8d7e"
+        "id": "fd90fb71-e9b7-4009-bd9d-0cf0d65a8d7e"
     },
     {
         "name": "SRT Coit N Exit",
@@ -747,7 +747,7 @@
         "latitude": 33.106360681317184,
         "longitude": -96.7818598310918,
         "cardinality": "N",
-        "gateId": "6f83359a-8c2f-401b-b6df-98d5c3da8b88"
+        "id": "6f83359a-8c2f-401b-b6df-98d5c3da8b88"
     },
     {
         "name": "SRT Independence S Entry",
@@ -757,7 +757,7 @@
         "latitude": 33.11468955806015,
         "longitude": -96.7629697345166,
         "cardinality": "S",
-        "gateId": "15ee5d12-cccb-479b-99f6-41e1dd8642e0"
+        "id": "15ee5d12-cccb-479b-99f6-41e1dd8642e0"
     },
     {
         "name": "SRT Independence N Exit",
@@ -767,7 +767,7 @@
         "latitude": 33.11354807174648,
         "longitude": -96.76412810636714,
         "cardinality": "N",
-        "gateId": "80ebea26-d7d2-48d3-a2c8-3dbc88080178"
+        "id": "80ebea26-d7d2-48d3-a2c8-3dbc88080178"
     },
     {
         "name": "SRT Custer S Entry",
@@ -777,7 +777,7 @@
         "latitude": 33.120947522805004,
         "longitude": -96.74637109274275,
         "cardinality": "S",
-        "gateId": "b3347576-5603-4b06-b8c5-9855cb4da131"
+        "id": "b3347576-5603-4b06-b8c5-9855cb4da131"
     },
     {
         "name": "SRT Custer N Exit",
@@ -787,7 +787,7 @@
         "latitude": 33.12060936165205,
         "longitude": -96.7453373476725,
         "cardinality": "N",
-        "gateId": "1d950916-ed5d-4f60-b059-5fa4cdc96441"
+        "id": "1d950916-ed5d-4f60-b059-5fa4cdc96441"
     },
     {
         "name": "SRT at Custer S",
@@ -797,7 +797,7 @@
         "latitude": 33.12584785128154,
         "longitude": -96.73139037592472,
         "cardinality": "S",
-        "gateId": "44b56485-c22c-4b91-bbdd-8a52ce56751d"
+        "id": "44b56485-c22c-4b91-bbdd-8a52ce56751d"
     },
     {
         "name": "SRT at Custer N",
@@ -807,7 +807,7 @@
         "latitude": 33.125428849308506,
         "longitude": -96.73158910640845,
         "cardinality": "N",
-        "gateId": "2b772d69-2071-4658-9d8b-c8c4caaa8f82"
+        "id": "2b772d69-2071-4658-9d8b-c8c4caaa8f82"
     },
     {
         "name": "SRT Alma S Exit",
@@ -817,7 +817,7 @@
         "latitude": 33.13282321275908,
         "longitude": -96.71180504133116,
         "cardinality": "S",
-        "gateId": "9008146b-c8e5-4c37-89d2-ea94662f1280"
+        "id": "9008146b-c8e5-4c37-89d2-ea94662f1280"
     },
     {
         "name": "SRT Alma N Entry",
@@ -827,7 +827,7 @@
         "latitude": 33.13163999328499,
         "longitude": -96.71325751276954,
         "cardinality": "N",
-        "gateId": "30d7d5d2-3ced-4406-a4aa-be34ee604a00"
+        "id": "30d7d5d2-3ced-4406-a4aa-be34ee604a00"
     },
     {
         "name": "SRT North Alma S Exit",
@@ -837,7 +837,7 @@
         "latitude": 33.13883400307242,
         "longitude": -96.69555260294989,
         "cardinality": "S",
-        "gateId": "605f39c3-50df-4a0e-a916-ab425c501a54"
+        "id": "605f39c3-50df-4a0e-a916-ab425c501a54"
     },
     {
         "name": "SRT North Alma N Entry",
@@ -847,7 +847,7 @@
         "latitude": 33.137674189040304,
         "longitude": -96.6967294831794,
         "cardinality": "N",
-        "gateId": "daa8cfae-d32d-4ee3-baf5-bced2f5a98c8"
+        "id": "daa8cfae-d32d-4ee3-baf5-bced2f5a98c8"
     },
     {
         "name": "SRT Stacy S Exit",
@@ -857,7 +857,7 @@
         "latitude": 33.14403972197335,
         "longitude": -96.68182289940617,
         "cardinality": "S",
-        "gateId": "e382cb3d-a454-4348-9996-6e3b42dd82b7"
+        "id": "e382cb3d-a454-4348-9996-6e3b42dd82b7"
     },
     {
         "name": "SRT Stacy N Entry",
@@ -867,7 +867,7 @@
         "latitude": 33.14321868881103,
         "longitude": -96.68215206895424,
         "cardinality": "N",
-        "gateId": "272fb22c-64c6-43e0-8503-bcc45bc3e580"
+        "id": "272fb22c-64c6-43e0-8503-bcc45bc3e580"
     },
     {
         "name": "SRT Forest S Exit",
@@ -877,7 +877,7 @@
         "latitude": 33.14879368278761,
         "longitude": -96.66933737126955,
         "cardinality": "S",
-        "gateId": "d818dc80-bb5f-4664-9033-1f6bb1dc6abb"
+        "id": "d818dc80-bb5f-4664-9033-1f6bb1dc6abb"
     },
     {
         "name": "SRT Forest N Entry",
@@ -887,7 +887,7 @@
         "latitude": 33.14851661187902,
         "longitude": -96.66837115456151,
         "cardinality": "N",
-        "gateId": "98aee402-3024-4c8b-ab09-6b3fbc6ee616"
+        "id": "98aee402-3024-4c8b-ab09-6b3fbc6ee616"
     },
     {
         "name": "SRT Hardin S Exit",
@@ -897,7 +897,7 @@
         "latitude": 33.15336319982897,
         "longitude": -96.65754160841692,
         "cardinality": "S",
-        "gateId": "39811d66-1a4f-4dcd-b64f-b5a94f96c8dc"
+        "id": "39811d66-1a4f-4dcd-b64f-b5a94f96c8dc"
     },
     {
         "name": "SRT Hardin N Entry",
@@ -907,7 +907,7 @@
         "latitude": 33.1509920702891,
         "longitude": -96.66142757504355,
         "cardinality": "N",
-        "gateId": "f942b8d9-c293-4a78-8d77-378c124bbbb8"
+        "id": "f942b8d9-c293-4a78-8d77-378c124bbbb8"
     },
     {
         "name": "Lake Lewisville W",
@@ -917,7 +917,7 @@
         "latitude": 33.13614759609467,
         "longitude": -97.01937652270132,
         "cardinality": "W",
-        "gateId": "8a164b6e-57d7-4db0-94b6-dbd3e50799cd"
+        "id": "8a164b6e-57d7-4db0-94b6-dbd3e50799cd"
     },
     {
         "name": "Lake Lewisville E",
@@ -927,7 +927,7 @@
         "latitude": 33.13608006891136,
         "longitude": -97.01929965306776,
         "cardinality": "E",
-        "gateId": "e89e09d1-e0fa-42a0-806f-96627752d893"
+        "id": "e89e09d1-e0fa-42a0-806f-96627752d893"
     },
     {
         "name": "PGBTEE Miller N Exit",
@@ -937,7 +937,7 @@
         "latitude": 32.87880627290956,
         "longitude": -96.55338952926176,
         "cardinality": "N",
-        "gateId": "00c55db4-0cf4-4025-9b66-d80651ade1f5"
+        "id": "00c55db4-0cf4-4025-9b66-d80651ade1f5"
     },
     {
         "name": "PGBTEE Miller S Entry",
@@ -947,7 +947,7 @@
         "latitude": 32.87826015705251,
         "longitude": -96.55391087387308,
         "cardinality": "S",
-        "gateId": "fc7a727f-8a89-45cf-8874-4672178b43f9"
+        "id": "fc7a727f-8a89-45cf-8874-4672178b43f9"
     },
     {
         "name": "PGBTEE Lakeview S Entry",
@@ -957,7 +957,7 @@
         "latitude": 32.89507393932854,
         "longitude": -96.55643797874454,
         "cardinality": "S",
-        "gateId": "8c3ea46d-664b-4e74-9027-95a83b3090ac"
+        "id": "8c3ea46d-664b-4e74-9027-95a83b3090ac"
     },
     {
         "name": "PGBTEE Lakeview N Exit",
@@ -967,7 +967,7 @@
         "latitude": 32.89472860035636,
         "longitude": -96.55573133996299,
         "cardinality": "N",
-        "gateId": "e33cac1a-4171-44d9-a686-740d67d63efa"
+        "id": "e33cac1a-4171-44d9-a686-740d67d63efa"
     },
     {
         "name": "PGBTEE Merritt N Exit",
@@ -977,7 +977,7 @@
         "latitude": 32.928421677556095,
         "longitude": -96.55208451722356,
         "cardinality": "N",
-        "gateId": "dc435b26-1b9e-43ab-bbd5-a23a40df17b4"
+        "id": "dc435b26-1b9e-43ab-bbd5-a23a40df17b4"
     },
     {
         "name": "PGBTEE Merritt S Entry",
@@ -987,7 +987,7 @@
         "latitude": 32.92943703314861,
         "longitude": -96.55277746094256,
         "cardinality": "S",
-        "gateId": "4e0e1faa-f970-457a-a66b-0297bfc3b32d"
+        "id": "4e0e1faa-f970-457a-a66b-0297bfc3b32d"
     },
     {
         "name": "PGBT at Merritt S",
@@ -997,7 +997,7 @@
         "latitude": 32.929444634414864,
         "longitude": -96.55275975013913,
         "cardinality": "S",
-        "gateId": "de566707-3595-4c50-987a-4cb42258bd3b"
+        "id": "de566707-3595-4c50-987a-4cb42258bd3b"
     },
     {
         "name": "PGBT at Merritt N",
@@ -1007,7 +1007,7 @@
         "latitude": 32.94463093938912,
         "longitude": -96.55909553386884,
         "cardinality": "N",
-        "gateId": "b56821a6-e860-42fd-b70c-2042353b7e86"
+        "id": "b56821a6-e860-42fd-b70c-2042353b7e86"
     },
     {
         "name": "PGBT Miles W Entry",
@@ -1017,7 +1017,7 @@
         "latitude": 32.95098002319079,
         "longitude": -96.58598784988932,
         "cardinality": "W",
-        "gateId": "585c1375-d29c-4084-bff2-ce855822a2c2"
+        "id": "585c1375-d29c-4084-bff2-ce855822a2c2"
     },
     {
         "name": "PGBT Miles E Exit",
@@ -1027,7 +1027,7 @@
         "latitude": 32.94993694172397,
         "longitude": -96.58766344559005,
         "cardinality": "E",
-        "gateId": "625a87e6-e512-4fd5-980f-4ac9fc655953"
+        "id": "625a87e6-e512-4fd5-980f-4ac9fc655953"
     },
     {
         "name": "PGBT Firewheel W Entry",
@@ -1037,7 +1037,7 @@
         "latitude": 32.94854357401549,
         "longitude": -96.61499541575361,
         "cardinality": "W",
-        "gateId": "901e4c7a-4d07-4bdd-8294-f8a576c7f08d"
+        "id": "901e4c7a-4d07-4bdd-8294-f8a576c7f08d"
     },
     {
         "name": "PGBT Firewheel E Exit",
@@ -1047,7 +1047,7 @@
         "latitude": 32.94759874389844,
         "longitude": -96.6149192129975,
         "cardinality": "E",
-        "gateId": "d13ce1d5-d3f6-4f53-ad46-dd2f87a6702d"
+        "id": "d13ce1d5-d3f6-4f53-ad46-dd2f87a6702d"
     },
     {
         "name": "PGBT Crist W Entry",
@@ -1057,7 +1057,7 @@
         "latitude": 32.94957196336326,
         "longitude": -96.61659078337716,
         "cardinality": "W",
-        "gateId": "c5af4f47-d282-4fb0-a30a-cd3870c0cfe3"
+        "id": "c5af4f47-d282-4fb0-a30a-cd3870c0cfe3"
     },
     {
         "name": "PGBT Crist E Exit",
@@ -1067,7 +1067,7 @@
         "latitude": 32.94904062519361,
         "longitude": -96.61739538414164,
         "cardinality": "E",
-        "gateId": "c4f21d27-2c77-40cb-921c-24363676fec8"
+        "id": "c4f21d27-2c77-40cb-921c-24363676fec8"
     },
     {
         "name": "PGBT Garland W Exit",
@@ -1077,7 +1077,7 @@
         "latitude": 32.963461324122434,
         "longitude": -96.63818875341968,
         "cardinality": "W",
-        "gateId": "110148bf-e2f3-45d4-bb09-16032b45f387"
+        "id": "110148bf-e2f3-45d4-bb09-16032b45f387"
     },
     {
         "name": "PGBT Garland E Entry",
@@ -1087,7 +1087,7 @@
         "latitude": 32.96273951626269,
         "longitude": -96.63845700022902,
         "cardinality": "E",
-        "gateId": "6082485e-4363-4165-a009-1381a4fdb671"
+        "id": "6082485e-4363-4165-a009-1381a4fdb671"
     },
     {
         "name": "PGBT Campbell W Exit",
@@ -1097,7 +1097,7 @@
         "latitude": 32.97277988563241,
         "longitude": -96.65233518230868,
         "cardinality": "W",
-        "gateId": "886e7ebf-a23e-4beb-b704-eae635ece782"
+        "id": "886e7ebf-a23e-4beb-b704-eae635ece782"
     },
     {
         "name": "PGBT Campbell E Entry",
@@ -1107,7 +1107,7 @@
         "latitude": 32.973215367361604,
         "longitude": -96.65445306761694,
         "cardinality": "E",
-        "gateId": "a119741c-f625-409e-a49f-993fb60fcbd2"
+        "id": "a119741c-f625-409e-a49f-993fb60fcbd2"
     },
     {
         "name": "PGBT Renner W Exit",
@@ -1117,7 +1117,7 @@
         "latitude": 32.985557291154606,
         "longitude": -96.66561958174827,
         "cardinality": "W",
-        "gateId": "f3cffbb6-f009-4c0b-996d-afc8648d4f68"
+        "id": "f3cffbb6-f009-4c0b-996d-afc8648d4f68"
     },
     {
         "name": "PGBT Renner E Entry",
@@ -1127,7 +1127,7 @@
         "latitude": 32.98475488223072,
         "longitude": -96.66632871234327,
         "cardinality": "E",
-        "gateId": "7659e5bd-be67-4a56-83dd-2ebc6ed71c33"
+        "id": "7659e5bd-be67-4a56-83dd-2ebc6ed71c33"
     },
     {
         "name": "PGBT at Renner E",
@@ -1137,7 +1137,7 @@
         "latitude": 32.98937567258885,
         "longitude": -96.66742309614672,
         "cardinality": "E",
-        "gateId": "7caac08c-aa21-4c92-b8c6-1abad25ab164"
+        "id": "7caac08c-aa21-4c92-b8c6-1abad25ab164"
     },
     {
         "name": "PGBT at Renner W",
@@ -1147,7 +1147,7 @@
         "latitude": 32.98942536231247,
         "longitude": -96.66722283575842,
         "cardinality": "W",
-        "gateId": "c9829b29-9bb5-4d30-96d8-fc6c847ed345"
+        "id": "c9829b29-9bb5-4d30-96d8-fc6c847ed345"
     },
     {
         "name": "PGBT Shiloh W Entry",
@@ -1157,7 +1157,7 @@
         "latitude": 32.99335604181484,
         "longitude": -96.66798238036272,
         "cardinality": "W",
-        "gateId": "46bd92d2-d5c8-42cb-a334-f5556858e046"
+        "id": "46bd92d2-d5c8-42cb-a334-f5556858e046"
     },
     {
         "name": "PGBT Shiloh E Exit",
@@ -1167,7 +1167,7 @@
         "latitude": 32.9936671657554,
         "longitude": -96.66916828910503,
         "cardinality": "E",
-        "gateId": "f1742348-5052-4ebb-a792-7d1738e94283"
+        "id": "f1742348-5052-4ebb-a792-7d1738e94283"
     },
     {
         "name": "PGBT W Renner W Entry",
@@ -1177,7 +1177,7 @@
         "latitude": 33.00191612972959,
         "longitude": -96.6777365844016,
         "cardinality": "W",
-        "gateId": "3e31d154-db63-4122-a10d-f8953deaac35"
+        "id": "3e31d154-db63-4122-a10d-f8953deaac35"
     },
     {
         "name": "PGBT W Renner E Exit",
@@ -1187,7 +1187,7 @@
         "latitude": 33.00157650087346,
         "longitude": -96.67870572485639,
         "cardinality": "E",
-        "gateId": "7d416d8b-360f-4bcd-89b5-0dc9fc59160a"
+        "id": "7d416d8b-360f-4bcd-89b5-0dc9fc59160a"
     },
     {
         "name": "PGBT Independence W Exit",
@@ -1197,7 +1197,7 @@
         "latitude": 33.00415972015393,
         "longitude": -96.73742844414114,
         "cardinality": "W",
-        "gateId": "9211e437-e99d-4627-be1a-68e344b1ba9f"
+        "id": "9211e437-e99d-4627-be1a-68e344b1ba9f"
     },
     {
         "name": "PGBT Independence E Entry",
@@ -1207,7 +1207,7 @@
         "latitude": 33.00351231850885,
         "longitude": -96.73724477634596,
         "cardinality": "E",
-        "gateId": "e70cdd4d-b395-45a2-b8bc-d9f9c5f7bbed"
+        "id": "e70cdd4d-b395-45a2-b8bc-d9f9c5f7bbed"
     },
     {
         "name": "PGBT Coit W Exit",
@@ -1217,7 +1217,7 @@
         "latitude": 33.00067815301298,
         "longitude": -96.7565279193611,
         "cardinality": "W",
-        "gateId": "25737e71-e587-44f7-a645-a1f932a0fce6"
+        "id": "25737e71-e587-44f7-a645-a1f932a0fce6"
     },
     {
         "name": "PGBT Coit E Entry",
@@ -1227,7 +1227,7 @@
         "latitude": 32.999898032154924,
         "longitude": -96.75701050319248,
         "cardinality": "E",
-        "gateId": "4f2dfe6e-1325-4e8b-9d7e-b8bffd6f1f8e"
+        "id": "4f2dfe6e-1325-4e8b-9d7e-b8bffd6f1f8e"
     },
     {
         "name": "PGBT at Coit W",
@@ -1237,7 +1237,7 @@
         "latitude": 33.00247694257934,
         "longitude": -96.77633429530344,
         "cardinality": "W",
-        "gateId": "c4e6c7d5-14f1-4adc-ba47-0eaf8c7251a3"
+        "id": "c4e6c7d5-14f1-4adc-ba47-0eaf8c7251a3"
     },
     {
         "name": "PGBT at Coit E",
@@ -1247,7 +1247,7 @@
         "latitude": 33.0023370734118,
         "longitude": -96.77644580429155,
         "cardinality": "E",
-        "gateId": "0a22f48c-3ddf-4585-9544-bc87bef08c48"
+        "id": "0a22f48c-3ddf-4585-9544-bc87bef08c48"
     },
     {
         "name": "PGBT Preston W Entry",
@@ -1257,7 +1257,7 @@
         "latitude": 33.012842758856294,
         "longitude": -96.7975315372226,
         "cardinality": "W",
-        "gateId": "aad34a84-aa07-4fc1-b563-0a66babf3a65"
+        "id": "aad34a84-aa07-4fc1-b563-0a66babf3a65"
     },
     {
         "name": "PGBT Preston E Exit",
@@ -1267,7 +1267,7 @@
         "latitude": 33.0120302611697,
         "longitude": -96.79762513904491,
         "cardinality": "E",
-        "gateId": "d273beb7-31a0-4fa7-b688-d8c9408ad7d7"
+        "id": "d273beb7-31a0-4fa7-b688-d8c9408ad7d7"
     },
     {
         "name": "PGBT Midway W Exit",
@@ -1277,7 +1277,7 @@
         "latitude": 33.0132697202928,
         "longitude": -96.84192697354506,
         "cardinality": "W",
-        "gateId": "867e3cd5-6980-4eda-9a16-93e798e9af3c"
+        "id": "867e3cd5-6980-4eda-9a16-93e798e9af3c"
     },
     {
         "name": "PGBT Midway E Entry",
@@ -1287,7 +1287,7 @@
         "latitude": 33.01218275639777,
         "longitude": -96.8421455500065,
         "cardinality": "E",
-        "gateId": "39a87cdd-9b0a-4163-ab9e-58f193749138"
+        "id": "39a87cdd-9b0a-4163-ab9e-58f193749138"
     },
     {
         "name": "PGBT Marsh W Exit",
@@ -1297,7 +1297,7 @@
         "latitude": 33.00344965732715,
         "longitude": -96.8556782898487,
         "cardinality": "W",
-        "gateId": "c939ec1b-fd5d-420c-859c-c785084bc314"
+        "id": "c939ec1b-fd5d-420c-859c-c785084bc314"
     },
     {
         "name": "PGBT Marsh E Entry",
@@ -1307,7 +1307,7 @@
         "latitude": 33.002038272188514,
         "longitude": -96.85533029264992,
         "cardinality": "E",
-        "gateId": "dfe26fa4-255e-49c8-97d0-0456df147759"
+        "id": "dfe26fa4-255e-49c8-97d0-0456df147759"
     },
     {
         "name": "PGBT at Trinity Mills W",
@@ -1317,7 +1317,7 @@
         "latitude": 32.99266864149211,
         "longitude": -96.86245414591919,
         "cardinality": "W",
-        "gateId": "77221717-25c2-4f79-ad7e-062bd3b9ef2e"
+        "id": "77221717-25c2-4f79-ad7e-062bd3b9ef2e"
     },
     {
         "name": "PGBT at Trinity Mills E",
@@ -1327,7 +1327,7 @@
         "latitude": 32.99257001226426,
         "longitude": -96.86225060923583,
         "cardinality": "E",
-        "gateId": "9962496e-426b-4b76-ae9d-135eee2f953a"
+        "id": "9962496e-426b-4b76-ae9d-135eee2f953a"
     },
     {
         "name": "PGBT Kelly W Entry",
@@ -1337,7 +1337,7 @@
         "latitude": 32.98602490054154,
         "longitude": -96.87329303959363,
         "cardinality": "W",
-        "gateId": "ef2ddaae-64be-49e7-8624-f985bd2ad3ca"
+        "id": "ef2ddaae-64be-49e7-8624-f985bd2ad3ca"
     },
     {
         "name": "PGBT Kelly E Exit",
@@ -1347,7 +1347,7 @@
         "latitude": 32.98538611416598,
         "longitude": -96.87379716098813,
         "cardinality": "E",
-        "gateId": "0a9f9ddb-4b14-4d4d-a159-8f1c96dd820c"
+        "id": "0a9f9ddb-4b14-4d4d-a159-8f1c96dd820c"
     },
     {
         "name": "PGBT Josey W Entry",
@@ -1357,7 +1357,7 @@
         "latitude": 32.98506712536942,
         "longitude": -96.8960359025898,
         "cardinality": "W",
-        "gateId": "a54106d4-d664-49ee-8724-070164eff5ee"
+        "id": "a54106d4-d664-49ee-8724-070164eff5ee"
     },
     {
         "name": "PGBT Josey E Exit",
@@ -1367,7 +1367,7 @@
         "latitude": 32.98441161535768,
         "longitude": -96.89514825058976,
         "cardinality": "E",
-        "gateId": "8bad34cb-0649-4731-af2b-a708800cbdea"
+        "id": "8bad34cb-0649-4731-af2b-a708800cbdea"
     },
     {
         "name": "PGBT at Sandy Lake S",
@@ -1377,7 +1377,7 @@
         "latitude": 32.95911804286412,
         "longitude": -96.92943010181754,
         "cardinality": "S",
-        "gateId": "dfbf436a-6d63-4045-a83b-697b4861d869"
+        "id": "dfbf436a-6d63-4045-a83b-697b4861d869"
     },
     {
         "name": "PGBT at Sandy Lake N",
@@ -1387,7 +1387,7 @@
         "latitude": 32.9590281400188,
         "longitude": -96.92956656884559,
         "cardinality": "N",
-        "gateId": "fa9995a8-aa46-42cb-a329-dcf3155ce2d9"
+        "id": "fa9995a8-aa46-42cb-a329-dcf3155ce2d9"
     },
     {
         "name": "PGBT Beltline S Entry",
@@ -1397,7 +1397,7 @@
         "latitude": 32.949863818198686,
         "longitude": -96.92697396207178,
         "cardinality": "S",
-        "gateId": "94f11640-e7bc-46e9-83e7-76f26ecf5821"
+        "id": "94f11640-e7bc-46e9-83e7-76f26ecf5821"
     },
     {
         "name": "PGBT Beltline N Exit",
@@ -1407,7 +1407,7 @@
         "latitude": 32.94778227694628,
         "longitude": -96.92624904985,
         "cardinality": "N",
-        "gateId": "663818f8-17df-431d-b433-a3c19f6cc2a0"
+        "id": "663818f8-17df-431d-b433-a3c19f6cc2a0"
     },
     {
         "name": "PGBT Royal S Exit",
@@ -1417,7 +1417,7 @@
         "latitude": 32.90140746826074,
         "longitude": -96.9638976753465,
         "cardinality": "S",
-        "gateId": "ef9c9b32-d4a9-4ca1-9258-da0036a5e2ad"
+        "id": "ef9c9b32-d4a9-4ca1-9258-da0036a5e2ad"
     },
     {
         "name": "PGBT Royal N Entry",
@@ -1427,7 +1427,7 @@
         "latitude": 32.90161422909112,
         "longitude": -96.96258744700596,
         "cardinality": "N",
-        "gateId": "3f218bd5-71d3-48c2-8db8-d3a4238bee06"
+        "id": "3f218bd5-71d3-48c2-8db8-d3a4238bee06"
     },
     {
         "name": "PGBT South Beltline S Exit",
@@ -1437,7 +1437,7 @@
         "latitude": 32.88609361628581,
         "longitude": -96.98497000831416,
         "cardinality": "S",
-        "gateId": "41dec05c-65e4-4634-bf38-6b25bf6bbe81"
+        "id": "41dec05c-65e4-4634-bf38-6b25bf6bbe81"
     },
     {
         "name": "PGBT South Beltline N Entry",
@@ -1447,7 +1447,7 @@
         "latitude": 32.885608621160934,
         "longitude": -96.98447299637192,
         "cardinality": "N",
-        "gateId": "759e3caa-a1cc-47cc-8508-64af7263799f"
+        "id": "759e3caa-a1cc-47cc-8508-64af7263799f"
     },
     {
         "name": "PGBT at N Beltline S",
@@ -1457,7 +1457,7 @@
         "latitude": 32.88298511933186,
         "longitude": -96.98718357449548,
         "cardinality": "S",
-        "gateId": "0b22bbe4-c748-43cd-8197-c5ae977c64f9"
+        "id": "0b22bbe4-c748-43cd-8197-c5ae977c64f9"
     },
     {
         "name": "PGBT at N Beltline N",
@@ -1467,7 +1467,7 @@
         "latitude": 32.88287593296274,
         "longitude": -96.98700116516079,
         "cardinality": "N",
-        "gateId": "70b6c3c9-c359-4ab2-bc92-39cc7c7b63aa"
+        "id": "70b6c3c9-c359-4ab2-bc92-39cc7c7b63aa"
     },
     {
         "name": "Mountain Creek Lake Bridge E",
@@ -1477,7 +1477,7 @@
         "latitude": 32.705509254616075,
         "longitude": -96.98256078958548,
         "cardinality": "E",
-        "gateId": "c2f4304d-a655-4cfe-8d4c-6b593257bb3a"
+        "id": "c2f4304d-a655-4cfe-8d4c-6b593257bb3a"
     },
     {
         "name": "Mountain Creek Lake Bridge W",
@@ -1487,7 +1487,7 @@
         "latitude": 32.70561284034348,
         "longitude": -96.98241954268612,
         "cardinality": "W",
-        "gateId": "dba0de17-4fb5-4558-96e6-4cb0bd9d3872"
+        "id": "dba0de17-4fb5-4558-96e6-4cb0bd9d3872"
     },
     {
         "name": "PGBW Conflans S Exit",
@@ -1497,7 +1497,7 @@
         "latitude": 32.82454521522155,
         "longitude": -97.01786954763273,
         "cardinality": "S",
-        "gateId": "9e5269f3-031b-406c-93dd-82f1a4fb4a42"
+        "id": "9e5269f3-031b-406c-93dd-82f1a4fb4a42"
     },
     {
         "name": "PGBW Conflans N Entry",
@@ -1507,7 +1507,7 @@
         "latitude": 32.82448879275136,
         "longitude": -97.0169643179113,
         "cardinality": "N",
-        "gateId": "92ffd682-8b77-4ee8-a9dd-a91c30315c04"
+        "id": "92ffd682-8b77-4ee8-a9dd-a91c30315c04"
     },
     {
         "name": "PGBW Shady Grove S Exit",
@@ -1517,7 +1517,7 @@
         "latitude": 32.80695200148686,
         "longitude": -97.01873328208517,
         "cardinality": "S",
-        "gateId": "01687483-5255-480b-af70-8b98b5a460d4"
+        "id": "01687483-5255-480b-af70-8b98b5a460d4"
     },
     {
         "name": "PGBW Shady Grove N Entry",
@@ -1527,7 +1527,7 @@
         "latitude": 32.80722712517359,
         "longitude": -97.0179705419778,
         "cardinality": "N",
-        "gateId": "3c2deeb3-a893-4e21-82aa-d8126c10740b"
+        "id": "3c2deeb3-a893-4e21-82aa-d8126c10740b"
     },
     {
         "name": "PGBW North Lower Tarrant S Exit",
@@ -1537,7 +1537,7 @@
         "latitude": 32.77921174419405,
         "longitude": -97.02616099734121,
         "cardinality": "S",
-        "gateId": "2965cb76-46c4-4b3b-a5ad-6a544897c99c"
+        "id": "2965cb76-46c4-4b3b-a5ad-6a544897c99c"
     },
     {
         "name": "PGBW North Lower Tarrant N Entry",
@@ -1547,7 +1547,7 @@
         "latitude": 32.779066792354655,
         "longitude": -97.02491624612223,
         "cardinality": "N",
-        "gateId": "15bca293-1281-447d-8165-4b7ad3c4ff4e"
+        "id": "15bca293-1281-447d-8165-4b7ad3c4ff4e"
     },
     {
         "name": "PGBW at Carrier S",
@@ -1557,7 +1557,7 @@
         "latitude": 32.776130988187795,
         "longitude": -97.02732263033448,
         "cardinality": "S",
-        "gateId": "fbc69a17-c418-430b-9b51-57e636b0f4b5"
+        "id": "fbc69a17-c418-430b-9b51-57e636b0f4b5"
     },
     {
         "name": "PGBW at Carrier N",
@@ -1567,7 +1567,7 @@
         "latitude": 32.77589391337698,
         "longitude": -97.02705873007142,
         "cardinality": "N",
-        "gateId": "93185241-6e00-4ec2-9405-e19c8ba016b3"
+        "id": "93185241-6e00-4ec2-9405-e19c8ba016b3"
     },
     {
         "name": "PGBW South Lower Tarrant N Exit",
@@ -1577,7 +1577,7 @@
         "latitude": 32.77478272246644,
         "longitude": -97.02702585133592,
         "cardinality": "N",
-        "gateId": "c0e62138-0f96-4490-8d9d-00f1e7d43d83"
+        "id": "c0e62138-0f96-4490-8d9d-00f1e7d43d83"
     },
     {
         "name": "PGBW South Lower Tarrant S Entry",
@@ -1587,7 +1587,7 @@
         "latitude": 32.77470707208489,
         "longitude": -97.02773418551176,
         "cardinality": "S",
-        "gateId": "97b8696b-b134-45df-9332-38e31ea7d420"
+        "id": "97b8696b-b134-45df-9332-38e31ea7d420"
     },
     {
         "name": "PGBW Dalworth S Exit",
@@ -1597,7 +1597,7 @@
         "latitude": 32.74640158469712,
         "longitude": -97.0240672161223,
         "cardinality": "S",
-        "gateId": "2c740332-03f9-4682-87b9-9305100f84e4"
+        "id": "2c740332-03f9-4682-87b9-9305100f84e4"
     },
     {
         "name": "PGBW Dalworth N Entry",
@@ -1607,7 +1607,7 @@
         "latitude": 32.746732171724446,
         "longitude": -97.02355603147646,
         "cardinality": "N",
-        "gateId": "3b901875-746a-4441-a180-7f1091f4f840"
+        "id": "3b901875-746a-4441-a180-7f1091f4f840"
     },
     {
         "name": "PGBW W Marshall S Exit",
@@ -1617,7 +1617,7 @@
         "latitude": 32.72467323274662,
         "longitude": -97.02135186372621,
         "cardinality": "S",
-        "gateId": "224c382d-3116-4add-a2b7-daece4ca3856"
+        "id": "224c382d-3116-4add-a2b7-daece4ca3856"
     },
     {
         "name": "PGBT W Marshall N Entry",
@@ -1627,7 +1627,7 @@
         "latitude": 32.72442142448893,
         "longitude": -97.02071516250794,
         "cardinality": "N",
-        "gateId": "1fed6c84-ee50-4ceb-a45d-8c297bc145a3"
+        "id": "1fed6c84-ee50-4ceb-a45d-8c297bc145a3"
     },
     {
         "name": "PGBW W Pioneer S Exit",
@@ -1637,7 +1637,7 @@
         "latitude": 32.719515417092246,
         "longitude": -97.02370829119592,
         "cardinality": "S",
-        "gateId": "d393dec8-bb85-48e7-a0a7-3853a91471fe"
+        "id": "d393dec8-bb85-48e7-a0a7-3853a91471fe"
     },
     {
         "name": "PGBW W Pioneer N Entry",
@@ -1647,7 +1647,7 @@
         "latitude": 32.71761365837284,
         "longitude": -97.02364305660852,
         "cardinality": "N",
-        "gateId": "44982c4d-d1d8-4eda-acab-6a3b99800f85"
+        "id": "44982c4d-d1d8-4eda-acab-6a3b99800f85"
     },
     {
         "name": "PGBT at Arkansas S",
@@ -1657,7 +1657,7 @@
         "latitude": 32.70283034584365,
         "longitude": -97.02483354907582,
         "cardinality": "S",
-        "gateId": "1b2d881e-e2e6-41d0-b29c-420fb4b913e2"
+        "id": "1b2d881e-e2e6-41d0-b29c-420fb4b913e2"
     },
     {
         "name": "PGBT at Arkansas N",
@@ -1667,7 +1667,7 @@
         "latitude": 32.70256436744598,
         "longitude": -97.02451830094492,
         "cardinality": "N",
-        "gateId": "140c20a3-b863-4d16-98d1-069e0d98def6"
+        "id": "140c20a3-b863-4d16-98d1-069e0d98def6"
     },
     {
         "name": "PGBT Arkansas S Entry",
@@ -1677,7 +1677,7 @@
         "latitude": 32.70239991127968,
         "longitude": -97.02504068915131,
         "cardinality": "S",
-        "gateId": "33d1882a-499f-4741-b377-7c5020949b65"
+        "id": "33d1882a-499f-4741-b377-7c5020949b65"
     },
     {
         "name": "PGBT Arkansas N Exit",
@@ -1687,7 +1687,7 @@
         "latitude": 32.70225101753821,
         "longitude": -97.02432782422065,
         "cardinality": "N",
-        "gateId": "2bb7f98f-69ee-4da0-8501-00c6476a5469"
+        "id": "2bb7f98f-69ee-4da0-8501-00c6476a5469"
     },
     {
         "name": "PGBT Mayfield S Entry",
@@ -1697,7 +1697,7 @@
         "latitude": 32.68876299498146,
         "longitude": -97.02468305464124,
         "cardinality": "S",
-        "gateId": "f11a66f7-fdaa-4807-a12d-b246e8787cb2"
+        "id": "f11a66f7-fdaa-4807-a12d-b246e8787cb2"
     },
     {
         "name": "PGBT Mayfield N Exit",
@@ -1707,7 +1707,7 @@
         "latitude": 32.68776002443751,
         "longitude": -97.0238675892574,
         "cardinality": "N",
-        "gateId": "b9889ccb-cd9d-40c9-b929-8f2ecbf15658"
+        "id": "b9889ccb-cd9d-40c9-b929-8f2ecbf15658"
     },
     {
         "name": "CTP at Montgomery S",
@@ -1717,7 +1717,7 @@
         "latitude": 32.72581230648621,
         "longitude": -97.37737341858956,
         "cardinality": "S",
-        "gateId": "52feee7c-6259-4381-94b0-a0a2c7a425f4"
+        "id": "52feee7c-6259-4381-94b0-a0a2c7a425f4"
     },
     {
         "name": "CTP at Montgomery N",
@@ -1727,7 +1727,7 @@
         "latitude": 32.72566401534857,
         "longitude": -97.37727510951639,
         "cardinality": "N",
-        "gateId": "9d08d9f1-a6a5-4dca-987f-69e075500c0a"
+        "id": "9d08d9f1-a6a5-4dca-987f-69e075500c0a"
     },
     {
         "name": "CTP Edwards Ranch S Entry",
@@ -1737,7 +1737,7 @@
         "latitude": 32.71204458871312,
         "longitude": -97.40045579344648,
         "cardinality": "S",
-        "gateId": "550b803e-dd74-4f67-b215-56ab3a07606d"
+        "id": "550b803e-dd74-4f67-b215-56ab3a07606d"
     },
     {
         "name": "CTP Edwards Ranch N Exit",
@@ -1747,7 +1747,7 @@
         "latitude": 32.71067859437676,
         "longitude": -97.40110796016563,
         "cardinality": "N",
-        "gateId": "4d941e87-e4d5-4872-93e4-7da6c58a31d2"
+        "id": "4d941e87-e4d5-4872-93e4-7da6c58a31d2"
     },
     {
         "name": "CTP Arborlawn N Exit",
@@ -1757,7 +1757,7 @@
         "latitude": 32.6874667404697,
         "longitude": -97.40467294339683,
         "cardinality": "N",
-        "gateId": "0bb04b72-1d38-46b0-9838-8255150b2fab"
+        "id": "0bb04b72-1d38-46b0-9838-8255150b2fab"
     },
     {
         "name": "CTP Arborlawn S Entry",
@@ -1767,7 +1767,7 @@
         "latitude": 32.69061360528527,
         "longitude": -97.4049317872377,
         "cardinality": "S",
-        "gateId": "4b3c0995-9d4c-488f-9e63-e4e2dab6dd5b"
+        "id": "4b3c0995-9d4c-488f-9e63-e4e2dab6dd5b"
     },
     {
         "name": "CTP Oakmount N Entry",
@@ -1777,7 +1777,7 @@
         "latitude": 32.66521587143173,
         "longitude": -97.41366088393008,
         "cardinality": "N",
-        "gateId": "4ddc2d85-b9e7-43ba-ac34-538d52e1d4a6"
+        "id": "4ddc2d85-b9e7-43ba-ac34-538d52e1d4a6"
     },
     {
         "name": "CTP Oakmount S Exit",
@@ -1787,7 +1787,7 @@
         "latitude": 32.66607137740844,
         "longitude": -97.41379731540617,
         "cardinality": "S",
-        "gateId": "05565bb1-464e-4ee7-ad04-8d33ac5ef119"
+        "id": "05565bb1-464e-4ee7-ad04-8d33ac5ef119"
     },
     {
         "name": "CTP Altamesa N Entry",
@@ -1797,7 +1797,7 @@
         "latitude": 32.64866585789075,
         "longitude": -97.41546083791091,
         "cardinality": "N",
-        "gateId": "a2b6178a-b200-4ca7-871e-458e30c39fab"
+        "id": "a2b6178a-b200-4ca7-871e-458e30c39fab"
     },
     {
         "name": "CTP Altamesa S Exit",
@@ -1807,7 +1807,7 @@
         "latitude": 32.64832834462735,
         "longitude": -97.41621799310361,
         "cardinality": "S",
-        "gateId": "29271010-fd76-4615-9905-c5f91a2b2df6"
+        "id": "29271010-fd76-4615-9905-c5f91a2b2df6"
     },
     {
         "name": "CTP Sycamore School N Entry",
@@ -1817,7 +1817,7 @@
         "latitude": 32.631399266585,
         "longitude": -97.41299551090796,
         "cardinality": "N",
-        "gateId": "ec98cad4-5423-4535-9189-9ea854776c5c"
+        "id": "ec98cad4-5423-4535-9189-9ea854776c5c"
     },
     {
         "name": "CTP Sycamore School S Exit",
@@ -1827,7 +1827,7 @@
         "latitude": 32.63231389243905,
         "longitude": -97.41435717999208,
         "cardinality": "S",
-        "gateId": "02ba7463-c8d7-4ffe-9496-983a0b5e14f0"
+        "id": "02ba7463-c8d7-4ffe-9496-983a0b5e14f0"
     },
     {
         "name": "CTP McPherson N Entry",
@@ -1837,7 +1837,7 @@
         "latitude": 32.60879442751032,
         "longitude": -97.41223482201771,
         "cardinality": "N",
-        "gateId": "bb4e52ad-f38b-4334-8bab-f62c02076079"
+        "id": "bb4e52ad-f38b-4334-8bab-f62c02076079"
     },
     {
         "name": "CTP McPherson S Exit",
@@ -1847,7 +1847,7 @@
         "latitude": 32.61085100555235,
         "longitude": -97.41292405248586,
         "cardinality": "S",
-        "gateId": "e2815312-5ad4-4cb5-bf1f-c7c22a88e647"
+        "id": "e2815312-5ad4-4cb5-bf1f-c7c22a88e647"
     },
     {
         "name": "CTP at McPherson S",
@@ -1857,7 +1857,7 @@
         "latitude": 32.59166479601844,
         "longitude": -97.4199227430625,
         "cardinality": "S",
-        "gateId": "d8a4d37b-9a72-46cc-acd6-5ede4cc4535f"
+        "id": "d8a4d37b-9a72-46cc-acd6-5ede4cc4535f"
     },
     {
         "name": "CTP at McPherson N",
@@ -1867,7 +1867,7 @@
         "latitude": 32.591476290893524,
         "longitude": -97.41969855776985,
         "cardinality": "N",
-        "gateId": "1b773a44-1a75-4768-80e6-c41a19ade5fe"
+        "id": "1b773a44-1a75-4768-80e6-c41a19ade5fe"
     },
     {
         "name": "CTP FM1187 N Entry",
@@ -1877,7 +1877,7 @@
         "latitude": 32.56158071965681,
         "longitude": -97.43329730769038,
         "cardinality": "N",
-        "gateId": "d448d574-67bf-45e4-a891-c6382084e641"
+        "id": "d448d574-67bf-45e4-a891-c6382084e641"
     },
     {
         "name": "CTP FM1187 S Exit",
@@ -1887,7 +1887,7 @@
         "latitude": 32.56133313374818,
         "longitude": -97.43253266007082,
         "cardinality": "S",
-        "gateId": "646dd59a-e786-4f9f-8a5d-65df2ed578fb"
+        "id": "646dd59a-e786-4f9f-8a5d-65df2ed578fb"
     },
     {
         "name": "CTP CR 920 S Entry",
@@ -1897,7 +1897,7 @@
         "latitude": 32.5423452832973,
         "longitude": -97.43196818487051,
         "cardinality": "S",
-        "gateId": "6dba7b62-ece5-45c2-9167-30be7a4a9af5"
+        "id": "6dba7b62-ece5-45c2-9167-30be7a4a9af5"
     },
     {
         "name": "CTP CR 920 N   Exit",
@@ -1907,7 +1907,7 @@
         "latitude": 32.54337818050488,
         "longitude": -97.43115778397484,
         "cardinality": "N",
-        "gateId": "ce8219f3-7022-4319-8eb0-611b3fcc0140"
+        "id": "ce8219f3-7022-4319-8eb0-611b3fcc0140"
     },
     {
         "name": "CTP CR913 N Entry",
@@ -1917,7 +1917,7 @@
         "latitude": 32.48899822837813,
         "longitude": -97.42333585037285,
         "cardinality": "N",
-        "gateId": "64ee1852-3009-4d78-8638-d354db2d58dd"
+        "id": "64ee1852-3009-4d78-8638-d354db2d58dd"
     },
     {
         "name": "CTP CR913 S Exit",
@@ -1927,7 +1927,7 @@
         "latitude": 32.489045542916735,
         "longitude": -97.42429278076055,
         "cardinality": "S",
-        "gateId": "a7e62ddf-f556-4963-90bc-8bcd5214878c"
+        "id": "a7e62ddf-f556-4963-90bc-8bcd5214878c"
     },
     {
         "name": "CTP FM917 N Entry",
@@ -1937,7 +1937,7 @@
         "latitude": 32.46325248189716,
         "longitude": -97.42198211085933,
         "cardinality": "N",
-        "gateId": "422e0570-36d3-49a6-a3e6-769f0f048aa5"
+        "id": "422e0570-36d3-49a6-a3e6-769f0f048aa5"
     },
     {
         "name": "CTP FM917 S Exit",
@@ -1947,7 +1947,7 @@
         "latitude": 32.46354986415094,
         "longitude": -97.42303178176758,
         "cardinality": "S",
-        "gateId": "bc3afdb0-9557-4b04-aff9-942e2c431572"
+        "id": "bc3afdb0-9557-4b04-aff9-942e2c431572"
     },
     {
         "name": "CTP CR904 N Entry",
@@ -1957,7 +1957,7 @@
         "latitude": 32.43454150224854,
         "longitude": -97.41610124302589,
         "cardinality": "N",
-        "gateId": "e6f06487-4c16-4f3c-bf09-636ef99f37e8"
+        "id": "e6f06487-4c16-4f3c-bf09-636ef99f37e8"
     },
     {
         "name": "CTP CR904 S Exit",
@@ -1967,7 +1967,7 @@
         "latitude": 32.43483924580352,
         "longitude": -97.4171399910433,
         "cardinality": "S",
-        "gateId": "c8ef3eda-4757-49c3-b8cb-31ac913c0215"
+        "id": "c8ef3eda-4757-49c3-b8cb-31ac913c0215"
     },
     {
         "name": "CTP at Spark S",
@@ -1977,7 +1977,7 @@
         "latitude": 32.422038224426885,
         "longitude": -97.41412539885648,
         "cardinality": "S",
-        "gateId": "460232e4-bfd6-43a6-8e79-87215725e186"
+        "id": "460232e4-bfd6-43a6-8e79-87215725e186"
     },
     {
         "name": "CTP at Spark N",
@@ -1987,7 +1987,7 @@
         "latitude": 32.4220483696236,
         "longitude": -97.41406481992134,
         "cardinality": "N",
-        "gateId": "21bb105f-3193-4e6a-8356-58ece0e5eda2"
+        "id": "21bb105f-3193-4e6a-8356-58ece0e5eda2"
     },
     {
         "name": "CTP Spark S Entry",
@@ -1997,7 +1997,7 @@
         "latitude": 32.400745887927094,
         "longitude": -97.41741998744612,
         "cardinality": "S",
-        "gateId": "9bec4360-7407-493e-b489-0d8d8aaa5661"
+        "id": "9bec4360-7407-493e-b489-0d8d8aaa5661"
     },
     {
         "name": "CTP Spark N Exit",
@@ -2007,7 +2007,7 @@
         "latitude": 32.40044933169917,
         "longitude": -97.41639385286803,
         "cardinality": "N",
-        "gateId": "f6697243-64cd-474c-a765-2b3385412cd1"
+        "id": "f6697243-64cd-474c-a765-2b3385412cd1"
     },
     {
         "name": "360 at Eden S",
@@ -2017,7 +2017,7 @@
         "latitude": 32.62814700736813,
         "longitude": -97.06864774814197,
         "cardinality": "S",
-        "gateId": "b47a0c5a-c09a-4a0d-a507-d3a79199d690"
+        "id": "b47a0c5a-c09a-4a0d-a507-d3a79199d690"
     },
     {
         "name": "360 at Eden N",
@@ -2027,7 +2027,7 @@
         "latitude": 32.62699286050093,
         "longitude": -97.0690921692569,
         "cardinality": "N",
-        "gateId": "51f768b3-7a75-4c3f-b00d-10d998feb04d"
+        "id": "51f768b3-7a75-4c3f-b00d-10d998feb04d"
     },
     {
         "name": "360 Webb Lynn N Entry",
@@ -2037,7 +2037,7 @@
         "latitude": 32.64629630794076,
         "longitude": -97.06198134317142,
         "cardinality": "N",
-        "gateId": "be04cef1-f575-4041-bec5-77cf2ea1b35f"
+        "id": "be04cef1-f575-4041-bec5-77cf2ea1b35f"
     },
     {
         "name": "360 Webb Lynn S Exit",
@@ -2047,7 +2047,7 @@
         "latitude": 32.647356045478936,
         "longitude": -97.0627715098911,
         "cardinality": "S",
-        "gateId": "b4835156-05a5-4443-a7d9-5934113d135b"
+        "id": "b4835156-05a5-4443-a7d9-5934113d135b"
     },
     {
         "name": "360 New York S Entry",
@@ -2057,7 +2057,7 @@
         "latitude": 32.611981775575536,
         "longitude": -97.07708713349615,
         "cardinality": "S",
-        "gateId": "f0b23ba9-e387-4874-8410-c85386dd5cb5"
+        "id": "f0b23ba9-e387-4874-8410-c85386dd5cb5"
     },
     {
         "name": "360 New York N Exit",
@@ -2067,7 +2067,7 @@
         "latitude": 32.61339978577394,
         "longitude": -97.07617398609771,
         "cardinality": "N",
-        "gateId": "b7bdd173-6bb7-45cd-8ed8-2133c4f80080"
+        "id": "b7bdd173-6bb7-45cd-8ed8-2133c4f80080"
     },
     {
         "name": "360 Debbie S Entry",
@@ -2077,7 +2077,7 @@
         "latitude": 32.59289735945149,
         "longitude": -97.07815849557744,
         "cardinality": "S",
-        "gateId": "cd9c14ed-f646-4d0d-8a16-2627223efd79"
+        "id": "cd9c14ed-f646-4d0d-8a16-2627223efd79"
     },
     {
         "name": "360 Debbie N Exit",
@@ -2087,7 +2087,7 @@
         "latitude": 32.59312183099016,
         "longitude": -97.0773784427834,
         "cardinality": "N",
-        "gateId": "e640264d-066a-4465-97f1-f278de12fa23"
+        "id": "e640264d-066a-4465-97f1-f278de12fa23"
     },
     {
         "name": "360 at Heritage S",
@@ -2097,7 +2097,7 @@
         "latitude": 32.55191697305856,
         "longitude": -97.08583487848078,
         "cardinality": "S",
-        "gateId": "405bc1a4-1590-4d2a-8de1-dc721a3ecb87"
+        "id": "405bc1a4-1590-4d2a-8de1-dc721a3ecb87"
     },
     {
         "name": "360 at Heritage N",
@@ -2107,7 +2107,7 @@
         "latitude": 32.55217115446229,
         "longitude": -97.08556640145403,
         "cardinality": "N",
-        "gateId": "9f71d21d-db69-4018-933a-24039b65fc56"
+        "id": "9f71d21d-db69-4018-933a-24039b65fc56"
     },
     {
         "name": "DNT Fields S Exit",
@@ -2117,7 +2117,7 @@
         "latitude": 33.20305219,
         "longitude": -96.82433171,
         "cardinality": "S",
-        "gateId": "408a2bfe-6924-4b59-9cbc-634ac00ec512"
+        "id": "408a2bfe-6924-4b59-9cbc-634ac00ec512"
     },
     {
         "name": "DNT Fields N Entry",
@@ -2127,7 +2127,7 @@
         "latitude": 33.202436,
         "longitude": -96.824319,
         "cardinality": "N",
-        "gateId": "bc8f82ec-77f7-4dcb-8b26-33f1720cc7da"
+        "id": "bc8f82ec-77f7-4dcb-8b26-33f1720cc7da"
     },
     {
         "name": "DNT 1st St N Exit",
@@ -2137,7 +2137,7 @@
         "latitude": 33.22425771131038,
         "longitude": -96.8194947779462,
         "cardinality": "N",
-        "gateId": "7e337381-0d0b-4ea4-b898-0ae4543841e7"
+        "id": "7e337381-0d0b-4ea4-b898-0ae4543841e7"
     },
     {
         "name": "DNT 1st St S Entrance",
@@ -2147,7 +2147,7 @@
         "latitude": 33.2252371255092,
         "longitude": -96.8202029837267,
         "cardinality": "S",
-        "gateId": "b0b31eeb-21e9-4405-a36c-bd0832ecd84f"
+        "id": "b0b31eeb-21e9-4405-a36c-bd0832ecd84f"
     },
     {
         "name": "Debug Gantry W",
@@ -2157,6 +2157,6 @@
         "latitude": 32.788328,
         "longitude": -96.809049,
         "cardinality": "W",
-        "gateId": "420c879a-5340-431d-80f8-a1632b877c46"
+        "id": "420c879a-5340-431d-80f8-a1632b877c46"
     }
 ]
